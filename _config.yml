@@ -1,7 +1,7 @@
 name: Charmed Life Film
 favicon: null
-layout_spectrum: 0.3324232641607523
-typography_spectrum: 0.3620309664402157
+layout_spectrum: 0.99365
+typography_spectrum: 0.25136
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.46742097567766905
-  lightness: 0.03319391096010804
-  saturation: 0.5722157119307667
+  lightness: 0
+  saturation: 0.5
   rhythmicContrast: 0.9037295556627214
 purpose: []
